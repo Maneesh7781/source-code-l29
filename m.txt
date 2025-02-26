@@ -3,3 +3,5 @@ amity university banglore
  i am pursuing btech cse
 i am from khammam telengana
 i love coding
+i am currently studying source code management
+my aim to become data science engineer
