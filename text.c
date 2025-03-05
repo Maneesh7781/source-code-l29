@@ -6,6 +6,7 @@ int main(){
 	divi=a/b;
 	mul=a*b;
 	addd=a+b
+		printf("hi
 	printf("%f",sum);
 	printf("%f",sub);
 	printf("%f",mul);
