@@ -5,6 +5,7 @@ int main(){
 	sub=a-b;
 	divi=a/b;
 	mul=a*b;
+	addd=a+b
 	printf("%f",sum);
 	printf("%f",sub);
 	printf("%f",mul);
